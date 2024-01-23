@@ -21,7 +21,7 @@ import Home from '../Pages/Home/Home';
         },
   
         {
-          path: "/register",
+          path: "/signup",
           element: <Registation></Registation>,
         },
       ]

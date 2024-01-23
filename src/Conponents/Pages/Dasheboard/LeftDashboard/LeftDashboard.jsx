@@ -38,7 +38,7 @@ const LeftDashboard = () => {
                                     Order Summary</NavLink>
                             </li>
                             <li>
-                                <NavLink to="/dashboard/users">
+                                <NavLink to="/login">
                                     <FaUsers></FaUsers>
                                     Login</NavLink>
                             </li>
